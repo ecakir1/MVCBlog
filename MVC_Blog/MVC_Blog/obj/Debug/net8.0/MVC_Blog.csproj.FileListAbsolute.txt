@@ -148,3 +148,4 @@ C:\Users\ezgca\OneDrive\Desktop\EzgiÇakır_BlogProjesi\MVC_Blog\MVC_Blog\obj\De
 C:\Users\ezgca\OneDrive\Desktop\EzgiÇakır_BlogProjesi\MVC_Blog\MVC_Blog\obj\Debug\net8.0\MVC_Blog.pdb
 C:\Users\ezgca\OneDrive\Desktop\EzgiÇakır_BlogProjesi\MVC_Blog\MVC_Blog\obj\Debug\net8.0\MVC_Blog.genruntimeconfig.cache
 C:\Users\ezgca\OneDrive\Desktop\EzgiÇakır_BlogProjesi\MVC_Blog\MVC_Blog\obj\Debug\net8.0\ref\MVC_Blog.dll
+C:\Users\ezgca\OneDrive\Desktop\EzgiÇakır_BlogProjesi\MVC_Blog\MVC_Blog\obj\Debug\net8.0\MVC_Blog.sourcelink.json

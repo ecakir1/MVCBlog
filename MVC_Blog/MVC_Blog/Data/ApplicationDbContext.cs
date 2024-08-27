@@ -76,6 +76,11 @@ namespace MVC_Blog.Data
                 .WithMany(r => r.UserProfiles)
                 .HasForeignKey(up => up.RoleID)
                 .OnDelete(DeleteBehavior.Restrict);
+
+            //yeni migrationdaki yeni kısım
+            modelBuilder.Entity<Comment>()
+                .Property(c => c.CommentID)
+                .ValueGeneratedOnAdd();
         }
     }
 }

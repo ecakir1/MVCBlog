@@ -1,9 +1,11 @@
 ﻿using System;
+using System.ComponentModel.DataAnnotations;
 
 namespace MVC_Blog.Models
 {
     public class Comment
     {
+        [Key]
         public string CommentID { get; set; }
         public string Content { get; set; }
         public string ArticleID { get; set; }
