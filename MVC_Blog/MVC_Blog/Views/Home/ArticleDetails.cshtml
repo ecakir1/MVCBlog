@@ -1,0 +1,44 @@
+﻿@model MVC_Blog.Models.Article
+
+@{
+    ViewData["Title"] = Model.Title;
+}
+
+<div class="article-details">
+    <img src="@Model.ImageUrl" alt="Article Image" class="article-image" />
+    <h2>@Model.Title</h2>
+    <p>@string.Join(", ", Model.Tags.Select(tag => tag.TagName))</p>
+    <p>Total Comments: @Model.Comments.Count</p>
+</div>
+
+<div class="comments mt-4">
+    <h3>Comments</h3>
+    @foreach (var comment in Model.Comments)
+    {
+        <div class="comment mb-2">
+            <img src="path/to/default-avatar.png" alt="Avatar" class="avatar" />
+            <strong>@comment.UserID</strong>
+            <p>@comment.Content</p>
+        </div>
+    }
+</div>
+
+@if (User?.Identity?.IsAuthenticated == true)
+{
+    <div class="add-comment mt-4">
+        <h4>Write a comment</h4>
+        <form asp-action="AddComment" method="post">
+            <input type="hidden" name="articleId" value="@Model.ArticleID" />
+            <div class="form-group">
+                <textarea name="commentText" class="form-control" rows="3" placeholder="Write a comment"></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+}
+else
+{
+    <div class="alert alert-info">
+        <p>To comment, please <a href="/Account/Login">log in</a> or <a href="/Account/Register">register</a>.</p>
+    </div>
+}

@@ -1,0 +1,43 @@
+﻿@model MVC_Blog.ViewModels.ProfileViewModel
+
+@{
+    ViewData["Title"] = "Profile";
+}
+
+<h2>Profile</h2>
+
+<div class="container" style="margin-bottom: 50px;">
+    <form asp-action="Profile" method="post">
+        <div class="form-group">
+            <label asp-for="FirstName"></label>
+            <input asp-for="FirstName" class="form-control" readonly style="background-color: #e9ecef;" />
+        </div>
+        <div class="form-group">
+            <label asp-for="LastName"></label>
+            <input asp-for="LastName" class="form-control" readonly style="background-color: #e9ecef;" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Email"></label>
+            <input asp-for="Email" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Password"></label>
+            <input asp-for="Password" class="form-control" type="password" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Membership"></label>
+            <input asp-for="Membership" class="form-control" readonly style="background-color: #e9ecef;" value="User" />
+        </div>
+        <div class="form-group">
+            <label asp-for="InterestedCategory"></label>
+            <select asp-for="InterestedCategory" class="form-control">
+                <option value="Literature">Literature</option>
+                <option value="Art">Art</option>
+                <option value="Computer Science">Computer Science</option>
+                <option value="Science">Science</option>
+                <option value="Freestyle">Freestyle</option>
+            </select>
+        </div>
+        <button type="submit" class="btn btn-primary">Save</button>
+    </form>
+</div>

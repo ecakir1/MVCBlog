@@ -1,0 +1,61 @@
+﻿@model List<MVC_Blog.Models.Article>
+
+@{
+    ViewData["Title"] = "Home Page";
+    var selectedCategory = ViewData["SelectedCategory"]?.ToString() ?? "All";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to Bloggie!</h1>
+</div>
+
+<div class="d-flex justify-content-center mt-4">
+    <div class="dropdown">
+        <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="width: 200px;">
+            @selectedCategory
+        </button>
+        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+            <a class="dropdown-item" href="#" onclick="selectCategory('All')">All</a>
+            <a class="dropdown-item" href="#" onclick="selectCategory('Literature')">Literature</a>
+            <a class="dropdown-item" href="#" onclick="selectCategory('Art')">Art</a>
+            <a class="dropdown-item" href="#" onclick="selectCategory('Computer Science')">Computer Science</a>
+            <a class="dropdown-item" href="#" onclick="selectCategory('Science')">Science</a>
+            <a class="dropdown-item" href="#" onclick="selectCategory('Freestyle')">Freestyle</a>
+        </div>
+    </div>
+</div>
+
+<script>
+    function selectCategory(category) {
+        document.getElementById('dropdownMenuButton').innerText = category;
+        window.location.href = `/?category=${category}`;
+    }
+
+    document.addEventListener("DOMContentLoaded", function () {
+        var selectedCategory = '@selectedCategory';
+        document.getElementById('dropdownMenuButton').innerText = selectedCategory;
+    });
+</script>
+
+<div class="articles mt-4">
+    @foreach (var article in Model)
+    {
+        <div class="article mb-4 p-3 border rounded" style="border-color: #ccc; border-width: 2px;">
+            <div class="d-flex align-items-center">
+                <img src="@article.ImageUrl" alt="Article Image" class="article-image mr-3" style="width: 100px; height: 100px; object-fit: cover;" />
+                <div>
+                    <h2><a href="@Url.Action("ArticleDetails", "Home", new { id = article.ArticleID })">@article.Title</a></h2>
+                    <p>@string.Join(", ", article.Tags.Select(tag => tag.TagName))</p>
+                    <p>Total Comments: @article.CommentCount</p>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+@if (User?.Identity?.IsAuthenticated == false)
+{
+    <div class="alert alert-info">
+        <p>To comment or receive notifications about articles, please <a href="/Account/Login">log in</a> or <a href="/Account/Register">register</a>.</p>
+    </div>
+}

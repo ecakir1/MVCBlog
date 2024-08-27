@@ -1,0 +1,712 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|c:\\users\\ezgca\\onedrive\\desktop\\ezgi\u00E7ak\u0131r_blogprojesi\\mvc_blog\\mvc_blog\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|solutionrelative:mvc_blog\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|c:\\users\\ezgca\\onedrive\\desktop\\ezgi\u00E7ak\u0131r_blogprojesi\\mvc_blog\\mvc_blog\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|solutionrelative:mvc_blog\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|c:\\users\\ezgca\\onedrive\\desktop\\ezgi\u00E7ak\u0131r_blogprojesi\\mvc_blog\\mvc_blog\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|solutionrelative:mvc_blog\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|c:\\users\\ezgca\\onedrive\\desktop\\ezgi\u00E7ak\u0131r_blogprojesi\\mvc_blog\\mvc_blog\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|solutionrelative:mvc_blog\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|c:\\users\\ezgca\\onedrive\\desktop\\ezgi\u00E7ak\u0131r_blogprojesi\\mvc_blog\\mvc_blog\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|solutionrelative:mvc_blog\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|c:\\users\\ezgca\\onedrive\\desktop\\ezgi\u00E7ak\u0131r_blogprojesi\\mvc_blog\\mvc_blog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|solutionrelative:mvc_blog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|c:\\users\\ezgca\\onedrive\\desktop\\ezgi\u00E7ak\u0131r_blogprojesi\\mvc_blog\\mvc_blog\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|solutionrelative:mvc_blog\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|c:\\users\\ezgca\\onedrive\\desktop\\ezgi\u00E7ak\u0131r_blogprojesi\\mvc_blog\\mvc_blog\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|solutionrelative:mvc_blog\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|c:\\users\\ezgca\\onedrive\\desktop\\ezgi\u00E7ak\u0131r_blogprojesi\\mvc_blog\\mvc_blog\\models\\articleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|solutionrelative:mvc_blog\\models\\articleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|c:\\users\\ezgca\\onedrive\\desktop\\ezgi\u00E7ak\u0131r_blogprojesi\\mvc_blog\\mvc_blog\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|solutionrelative:mvc_blog\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|c:\\users\\ezgca\\onedrive\\desktop\\ezgi\u00E7ak\u0131r_blogprojesi\\mvc_blog\\mvc_blog\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|solutionrelative:mvc_blog\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|c:\\users\\ezgca\\onedrive\\desktop\\ezgi\u00E7ak\u0131r_blogprojesi\\mvc_blog\\mvc_blog\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|solutionrelative:mvc_blog\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Data\\Migrations\\20240827092405_InitBlogMVC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MVC_Blog\\Data\\Migrations\\20240827092405_InitBlogMVC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|c:\\users\\ezgca\\onedrive\\desktop\\ezgi\u00E7ak\u0131r_blogprojesi\\mvc_blog\\mvc_blog\\views\\home\\articledetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|solutionrelative:mvc_blog\\views\\home\\articledetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|c:\\users\\ezgca\\onedrive\\desktop\\ezgi\u00E7ak\u0131r_blogprojesi\\mvc_blog\\mvc_blog\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|solutionrelative:mvc_blog\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|c:\\users\\ezgca\\onedrive\\desktop\\ezgi\u00E7ak\u0131r_blogprojesi\\mvc_blog\\mvc_blog\\services\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|solutionrelative:mvc_blog\\services\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|c:\\users\\ezgca\\onedrive\\desktop\\ezgi\u00E7ak\u0131r_blogprojesi\\mvc_blog\\mvc_blog\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|solutionrelative:mvc_blog\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|c:\\users\\ezgca\\onedrive\\desktop\\ezgi\u00E7ak\u0131r_blogprojesi\\mvc_blog\\mvc_blog\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|solutionrelative:mvc_blog\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|c:\\users\\ezgca\\onedrive\\desktop\\ezgi\u00E7ak\u0131r_blogprojesi\\mvc_blog\\mvc_blog\\views\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|solutionrelative:mvc_blog\\views\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|c:\\users\\ezgca\\onedrive\\desktop\\ezgi\u00E7ak\u0131r_blogprojesi\\mvc_blog\\mvc_blog\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|solutionrelative:mvc_blog\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|c:\\users\\ezgca\\onedrive\\desktop\\ezgi\u00E7ak\u0131r_blogprojesi\\mvc_blog\\mvc_blog\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|solutionrelative:mvc_blog\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|c:\\users\\ezgca\\onedrive\\desktop\\ezgi\u00E7ak\u0131r_blogprojesi\\mvc_blog\\mvc_blog\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|solutionrelative:mvc_blog\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|c:\\users\\ezgca\\onedrive\\desktop\\ezgi\u00E7ak\u0131r_blogprojesi\\mvc_blog\\mvc_blog\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|solutionrelative:mvc_blog\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|c:\\users\\ezgca\\onedrive\\desktop\\ezgi\u00E7ak\u0131r_blogprojesi\\mvc_blog\\mvc_blog\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|solutionrelative:mvc_blog\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Data\\Migrations\\20240827065134_InitBlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MVC_Blog\\Data\\Migrations\\20240827065134_InitBlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|c:\\users\\ezgca\\onedrive\\desktop\\ezgi\u00E7ak\u0131r_blogprojesi\\mvc_blog\\mvc_blog\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|solutionrelative:mvc_blog\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Data\\Migrations\\20240827063452_InitBlogMVC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MVC_Blog\\Data\\Migrations\\20240827063452_InitBlogMVC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|c:\\users\\ezgca\\onedrive\\desktop\\ezgi\u00E7ak\u0131r_blogprojesi\\mvc_blog\\mvc_blog\\viewmodels\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|solutionrelative:mvc_blog\\viewmodels\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Data\\Migrations\\20240826185109_InitBlogMVC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MVC_Blog\\Data\\Migrations\\20240826185109_InitBlogMVC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|c:\\users\\ezgca\\onedrive\\desktop\\ezgi\u00E7ak\u0131r_blogprojesi\\mvc_blog\\mvc_blog\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|solutionrelative:mvc_blog\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|c:\\users\\ezgca\\onedrive\\desktop\\ezgi\u00E7ak\u0131r_blogprojesi\\mvc_blog\\mvc_blog\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|solutionrelative:mvc_blog\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|c:\\users\\ezgca\\onedrive\\desktop\\ezgi\u00E7ak\u0131r_blogprojesi\\mvc_blog\\mvc_blog\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|solutionrelative:mvc_blog\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|c:\\users\\ezgca\\onedrive\\desktop\\ezgi\u00E7ak\u0131r_blogprojesi\\mvc_blog\\mvc_blog\\views\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|solutionrelative:mvc_blog\\views\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|c:\\users\\ezgca\\onedrive\\desktop\\ezgi\u00E7ak\u0131r_blogprojesi\\mvc_blog\\mvc_blog\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|solutionrelative:mvc_blog\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|c:\\users\\ezgca\\onedrive\\desktop\\ezgi\u00E7ak\u0131r_blogprojesi\\mvc_blog\\mvc_blog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|solutionrelative:mvc_blog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|c:\\users\\ezgca\\onedrive\\desktop\\ezgi\u00E7ak\u0131r_blogprojesi\\mvc_blog\\mvc_blog\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|solutionrelative:mvc_blog\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|c:\\users\\ezgca\\onedrive\\desktop\\ezgi\u00E7ak\u0131r_blogprojesi\\mvc_blog\\mvc_blog\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|solutionrelative:mvc_blog\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|c:\\users\\ezgca\\onedrive\\desktop\\ezgi\u00E7ak\u0131r_blogprojesi\\mvc_blog\\mvc_blog\\mvc_blog.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1D54FAD8-69AB-4177-AECA-1AE78ACBBB08}|MVC_Blog\\MVC_Blog.csproj|solutionrelative:mvc_blog\\mvc_blog.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Data\\Migrations\\20240824062958_InitBlogMVC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MVC_Blog\\Data\\Migrations\\20240824062958_InitBlogMVC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Data\\Migrations\\20240824061747_InitMVCBlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MVC_Blog\\Data\\Migrations\\20240824061747_InitMVCBlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC_Blog\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC_Blog\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAYwDMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T08:34:13.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_Blog\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVC_Blog\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T12:04:29.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Program.cs",
+              "RelativeDocumentMoniker": "MVC_Blog\\Program.cs",
+              "ToolTip": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Program.cs",
+              "RelativeToolTip": "MVC_Blog\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T07:10:47.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Models\\UserProfile.cs",
+              "RelativeDocumentMoniker": "MVC_Blog\\Models\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Models\\UserProfile.cs",
+              "RelativeToolTip": "MVC_Blog\\Models\\UserProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:41:53.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MVC_Blog\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MVC_Blog\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T06:14:28.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MVC_Blog\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MVC_Blog\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwHsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T07:58:53.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "MVC_Blog\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Models\\Tag.cs",
+              "RelativeToolTip": "MVC_Blog\\Models\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T15:35:55.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Models\\Article.cs",
+              "RelativeDocumentMoniker": "MVC_Blog\\Models\\Article.cs",
+              "ToolTip": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Models\\Article.cs",
+              "RelativeToolTip": "MVC_Blog\\Models\\Article.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T09:22:39.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "MVC_Blog\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Models\\Category.cs",
+              "RelativeToolTip": "MVC_Blog\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T10:40:16.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "MVC_Blog\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Models\\Comment.cs",
+              "RelativeToolTip": "MVC_Blog\\Models\\Comment.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T09:06:19.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ArticleView.cs",
+              "DocumentMoniker": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Models\\ArticleView.cs",
+              "RelativeDocumentMoniker": "MVC_Blog\\Models\\ArticleView.cs",
+              "ToolTip": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Models\\ArticleView.cs",
+              "RelativeToolTip": "MVC_Blog\\Models\\ArticleView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:42:10.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "MVC_Blog\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "MVC_Blog\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T09:25:18.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240827092405_InitBlogMVC.cs",
+              "DocumentMoniker": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Data\\Migrations\\20240827092405_InitBlogMVC.cs",
+              "RelativeDocumentMoniker": "MVC_Blog\\Data\\Migrations\\20240827092405_InitBlogMVC.cs",
+              "ToolTip": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Data\\Migrations\\20240827092405_InitBlogMVC.cs",
+              "RelativeToolTip": "MVC_Blog\\Data\\Migrations\\20240827092405_InitBlogMVC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T09:24:05.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ArticleDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Views\\Home\\ArticleDetails.cshtml",
+              "RelativeDocumentMoniker": "MVC_Blog\\Views\\Home\\ArticleDetails.cshtml",
+              "ToolTip": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Views\\Home\\ArticleDetails.cshtml",
+              "RelativeToolTip": "MVC_Blog\\Views\\Home\\ArticleDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T09:22:09.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "MVC_Blog\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "MVC_Blog\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAswDYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-24T09:41:58.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "MVC_Blog\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Services\\EmailService.cs",
+              "RelativeToolTip": "MVC_Blog\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T08:24:00.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Services\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "MVC_Blog\\Services\\EmailSettings.cs",
+              "ToolTip": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Services\\EmailSettings.cs",
+              "RelativeToolTip": "MVC_Blog\\Services\\EmailSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T08:21:12.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Services\\IEmailService.cs",
+              "RelativeDocumentMoniker": "MVC_Blog\\Services\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Services\\IEmailService.cs",
+              "RelativeToolTip": "MVC_Blog\\Services\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T08:22:54.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RegisterConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Views\\Account\\RegisterConfirmation.cshtml",
+              "RelativeDocumentMoniker": "MVC_Blog\\Views\\Account\\RegisterConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Views\\Account\\RegisterConfirmation.cshtml",
+              "RelativeToolTip": "MVC_Blog\\Views\\Account\\RegisterConfirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T12:08:58.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "MVC_Blog\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "MVC_Blog\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-24T11:22:52.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "MVC_Blog\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "MVC_Blog\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-24T09:43:49.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "MVC_Blog\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "MVC_Blog\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-27T07:02:05.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "MVC_Blog\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "MVC_Blog\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-27T06:58:06.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Views\\Account\\Profile.cshtml",
+              "RelativeDocumentMoniker": "MVC_Blog\\Views\\Account\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Views\\Account\\Profile.cshtml",
+              "RelativeToolTip": "MVC_Blog\\Views\\Account\\Profile.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvysAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T06:32:01.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20240826185109_InitBlogMVC.cs",
+              "DocumentMoniker": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Data\\Migrations\\20240826185109_InitBlogMVC.cs",
+              "RelativeDocumentMoniker": "MVC_Blog\\Data\\Migrations\\20240826185109_InitBlogMVC.cs",
+              "ToolTip": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Data\\Migrations\\20240826185109_InitBlogMVC.cs",
+              "RelativeToolTip": "MVC_Blog\\Data\\Migrations\\20240826185109_InitBlogMVC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:51:09.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240827065134_InitBlog.cs",
+              "DocumentMoniker": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Data\\Migrations\\20240827065134_InitBlog.cs",
+              "RelativeDocumentMoniker": "MVC_Blog\\Data\\Migrations\\20240827065134_InitBlog.cs",
+              "ToolTip": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Data\\Migrations\\20240827065134_InitBlog.cs",
+              "RelativeToolTip": "MVC_Blog\\Data\\Migrations\\20240827065134_InitBlog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:51:34.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "MVC_Blog\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "MVC_Blog\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T06:14:05.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20240827063452_InitBlogMVC.cs",
+              "DocumentMoniker": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Data\\Migrations\\20240827063452_InitBlogMVC.cs",
+              "RelativeDocumentMoniker": "MVC_Blog\\Data\\Migrations\\20240827063452_InitBlogMVC.cs",
+              "ToolTip": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Data\\Migrations\\20240827063452_InitBlogMVC.cs",
+              "RelativeToolTip": "MVC_Blog\\Data\\Migrations\\20240827063452_InitBlogMVC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:34:52.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "MVC_Blog\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Models\\Role.cs",
+              "RelativeToolTip": "MVC_Blog\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T07:07:06.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProfileViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\ViewModels\\ProfileViewModel.cs",
+              "RelativeDocumentMoniker": "MVC_Blog\\ViewModels\\ProfileViewModel.cs",
+              "ToolTip": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\ViewModels\\ProfileViewModel.cs",
+              "RelativeToolTip": "MVC_Blog\\ViewModels\\ProfileViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T08:01:10.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "MVC_Blog\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "MVC_Blog\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-24T09:42:42.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ConfirmEmail.cshtml",
+              "DocumentMoniker": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Views\\Account\\ConfirmEmail.cshtml",
+              "RelativeDocumentMoniker": "MVC_Blog\\Views\\Account\\ConfirmEmail.cshtml",
+              "ToolTip": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Views\\Account\\ConfirmEmail.cshtml",
+              "RelativeToolTip": "MVC_Blog\\Views\\Account\\ConfirmEmail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T11:47:20.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC_Blog\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC_Blog\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAD0AAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-24T09:07:25.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\wwwroot\\js\\main.js",
+              "RelativeDocumentMoniker": "MVC_Blog\\wwwroot\\js\\main.js",
+              "ToolTip": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\wwwroot\\js\\main.js",
+              "RelativeToolTip": "MVC_Blog\\wwwroot\\js\\main.js",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-26T06:38:53.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\appsettings.json",
+              "RelativeDocumentMoniker": "MVC_Blog\\appsettings.json",
+              "ToolTip": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\appsettings.json",
+              "RelativeToolTip": "MVC_Blog\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-24T06:22:24.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "MVC_Blog\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "MVC_Blog\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T08:00:00.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MVC_Blog",
+              "DocumentMoniker": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\MVC_Blog.csproj",
+              "RelativeDocumentMoniker": "MVC_Blog\\MVC_Blog.csproj",
+              "ToolTip": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\MVC_Blog.csproj",
+              "RelativeToolTip": "MVC_Blog\\MVC_Blog.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-24T07:59:32.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "MVC_Blog\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "MVC_Blog\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T08:00:39.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20240824062958_InitBlogMVC.cs",
+              "DocumentMoniker": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Data\\Migrations\\20240824062958_InitBlogMVC.cs",
+              "RelativeDocumentMoniker": "MVC_Blog\\Data\\Migrations\\20240824062958_InitBlogMVC.cs",
+              "ToolTip": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Data\\Migrations\\20240824062958_InitBlogMVC.cs",
+              "RelativeToolTip": "MVC_Blog\\Data\\Migrations\\20240824062958_InitBlogMVC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T06:29:58.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20240824061747_InitMVCBlog.cs",
+              "DocumentMoniker": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Data\\Migrations\\20240824061747_InitMVCBlog.cs",
+              "RelativeDocumentMoniker": "MVC_Blog\\Data\\Migrations\\20240824061747_InitMVCBlog.cs",
+              "ToolTip": "C:\\Users\\ezgca\\OneDrive\\Desktop\\Ezgi\u00C7ak\u0131r_BlogProjesi\\MVC_Blog\\MVC_Blog\\Data\\Migrations\\20240824061747_InitMVCBlog.cs",
+              "RelativeToolTip": "MVC_Blog\\Data\\Migrations\\20240824061747_InitMVCBlog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T06:17:48.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
